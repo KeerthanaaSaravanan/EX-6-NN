@@ -66,8 +66,7 @@ plt.show()
 ```
 
 <H3>Output:</H3>
-![image](https://github.com/user-attachments/assets/c0e17b97-8221-4790-a839-4305c917f1fc)
-
+![image](https://github.com/user-attachments/assets/942d0cbe-df76-4720-86af-466d099ca4ea)
 
 <H3>Results:</H3>
 Thus, an ANN with MLP is constructed and trained to predict the heart attack using python.
