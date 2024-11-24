@@ -2,7 +2,8 @@
 <H3>NAME: KEERTHANA S</H3>
 <H3>REGISTER NO.: 212223240070</H3>
 <H3>EX. NO.6</H3>
-<H3>DATE:</H3>
+<H3>DATE: 07.11.24</H3>
+
 <H3>Aim:</H3>  To construct a  Multi-Layer Perceptron to predict heart attack using Python
 <H3>Algorithm:</H3>
 Step 1:Import the required libraries: numpy, pandas, MLPClassifier, train_test_split, StandardScaler, accuracy_score, and matplotlib.pyplot.<BR>
@@ -65,7 +66,8 @@ plt.show()
 ```
 
 <H3>Output:</H3>
-![image](https://github.com/user-attachments/assets/77bca241-747b-42ba-8c9f-fac0b6b35117)
+![image](https://github.com/user-attachments/assets/c0e17b97-8221-4790-a839-4305c917f1fc)
+
 
 <H3>Results:</H3>
 Thus, an ANN with MLP is constructed and trained to predict the heart attack using python.
